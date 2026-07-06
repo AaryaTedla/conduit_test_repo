@@ -31,3 +31,5 @@ data.
 2. Provide examples, context, or requirements.
 3. Review the response and ask follow-up questions.
 4. Verify critical facts before relying on the answer.
+
+Used thoughtfully, ChatGPT can be a practical partner for learning, creating, and problem solving.
