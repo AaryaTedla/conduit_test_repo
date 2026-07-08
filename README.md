@@ -33,3 +33,10 @@ data.
 4. Verify critical facts before relying on the answer.
 
 Used thoughtfully, ChatGPT can be a practical partner for learning, creating, and problem solving.
+# conduit_test_repo
+
+HI WHATSUP..IM TESTING IF THIS SHOWS UP
+
+## Purpose
+
+This repository is used for testing Conduit coding sessions and pull request workflows.
