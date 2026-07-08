@@ -1,0 +1,16 @@
+ChatGPT vs Claude
+
+ChatGPT and Claude are both AI assistants designed to understand prompts, answer questions,
+help with writing, explain technical topics, and assist with coding tasks. They are similar
+in that they use large language models and work best when the user gives clear context and
+specific instructions.
+
+ChatGPT is made by OpenAI. It is often used for brainstorming, programming help, tutoring,
+summarization, and building workflows with OpenAI tools and APIs. Claude is made by Anthropic.
+It is also used for writing, analysis, coding support, document review, and conversational
+assistance.
+
+The better choice depends on the task, the available tools, model versions, privacy needs,
+cost, and personal preference. For many everyday tasks, both can be useful. The most practical
+approach is to test each assistant with the same real task and compare the quality, accuracy,
+speed, and style of the results.
