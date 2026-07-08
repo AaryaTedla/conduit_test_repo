@@ -1,0 +1,21 @@
+ChatGPT vs Claude
+
+ChatGPT and Claude are both AI assistants, but they can feel different in use.
+
+ChatGPT
+- Often good for brainstorming, coding help, summaries, and quick answers.
+- Can be more conversational and flexible in style.
+- Works well for drafting content and turning rough ideas into structured text.
+
+Claude
+- Often strong at reading and reasoning over long text.
+- Can be useful for careful writing, document analysis, and longer context tasks.
+- Tends to feel calm and detailed in its responses.
+
+Quick comparison
+- ChatGPT: fast, versatile, and broad.
+- Claude: thoughtful, long-context friendly, and detail-oriented.
+
+Which one is better depends on the task.
+If you want speed and variety, ChatGPT can be a strong choice.
+If you want deep reading and long-form analysis, Claude can be a strong choice.
