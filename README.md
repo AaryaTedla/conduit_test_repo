@@ -40,3 +40,13 @@ HI WHATSUP..IM TESTING IF THIS SHOWS UP
 ## Purpose
 
 This repository is used for testing Conduit coding sessions and pull request workflows.
+
+## File Structure
+
+```text
+.
+├── README.md
+├── chatgpt-vs-claude.txt
+├── chatgpt_vs_claude.txt
+└── lorem-ipsum.txt
+```
