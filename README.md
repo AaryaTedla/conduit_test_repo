@@ -48,5 +48,11 @@ This repository is used for testing Conduit coding sessions and pull request wor
 ├── README.md
 ├── chatgpt-vs-claude.txt
 ├── chatgpt_vs_claude.txt
+├── pomodoro.html
 └── lorem-ipsum.txt
 ```
+
+## Pomodoro Timer
+
+Open [`pomodoro.html`](./pomodoro.html) in a browser for a lightweight focus timer with
+25-minute work sessions, 5-minute breaks, and basic start, pause, switch, and reset controls.
