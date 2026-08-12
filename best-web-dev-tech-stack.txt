@@ -1,0 +1,31 @@
+Best Tech Stack for Web Development
+
+A strong modern web development stack often starts with TypeScript because it
+adds safer, clearer code while still working across the JavaScript ecosystem.
+React or Next.js are common choices for building fast, component-based user
+interfaces, with Next.js adding routing, server rendering, and full-stack
+application features.
+
+For styling, Tailwind CSS is popular for quickly building consistent interfaces,
+while traditional CSS modules or design systems are still excellent for larger
+teams that need strict visual control. On the backend, Node.js with Express,
+NestJS, or Next.js API routes works well when the team wants one language across
+the stack. Python with Django or FastAPI is also a strong backend choice when
+developer speed, data work, or mature server-side tools matter.
+
+PostgreSQL is one of the best default database choices for web apps because it
+is reliable, flexible, and works well for both simple products and serious
+production systems. Redis is useful for caching, sessions, queues, and rate
+limiting. For deployment, Vercel, Netlify, Render, Fly.io, and AWS are all good
+options depending on project size, budget, and operational needs.
+
+A practical default stack for many new web apps is:
+
+Frontend: TypeScript, React, Next.js, Tailwind CSS
+Backend: Next.js API routes, Node.js, or FastAPI
+Database: PostgreSQL
+Caching and jobs: Redis
+Deployment: Vercel, Render, Fly.io, or AWS
+
+The best stack is not always the newest stack. It should match the team's skill,
+the product's scale, the budget, and how quickly the project needs to ship.
